@@ -1,0 +1,31 @@
+@charset "utf-8";
+/*注册*/
+.register-main	{ width:100%; height:800px; background:url(../images/zc-banner.jpg) center center no-repeat;}
+.register-main	.warp	{ width:360px; height:580px; background:url(../images/bg-zc.png); position:relative; top:60px; left:10px; padding:50px 70px;}
+.register-main	.warp	.t	{ height:60px; line-height:60px; font-size:22px; color:#b7883e;}
+.register-main	.warp	.t	span	{ color:#999; margin-left:10px; font-size:18px;}
+.register-main	.warp	.t	a	{ float:right; font-size:14px; color:#000;}
+.register-main	.warp	.itms	{ width:100%; height:50px; position:relative; padding-bottom:20px; position:relative;}
+.register-main	.warp	.itms	.icon	{ display:block; width:40px; height:40px; position:absolute; left:5px; top:5px;}
+.register-main	.warp	.itms		.In-text	{ display:block; background:#ecf5fa; border:1px solid #e5e5e5; width:310px; line-height:50px; height:48px; padding-left:50px; border-radius:5px; float:left;}
+.register-main	.warp	.itms.itms-two	.In-text	{ width:190px;}
+.register-main	.warp	.itms.itms-two	.right		{ float:right; width:100px; height:50px;}
+.register-main	.warp	.itms.itms-two	.right.img	{ width:98px; height:48px; border-radius:5px; border:1px solid #e5e5e5; overflow:hidden;}
+.register-main	.warp	.itms.itms-two	.right	.btn-yzm	{ width:100px; height:50px; line-height:50px; text-align:center; display:block; font-size:14px; color:#fff; border-radius:5px; cursor:pointer;}
+.register-main	.warp	.btn-main		{ width:100%; height:50px; position:relative; padding-bottom:20px; position:relative;}
+.register-main	.warp	.btn-main	.btn-form	{ width:100%; height:50px; line-height:50px; text-align:center; color:#fff; font-size:18px; display:block; border-radius:5px; cursor:pointer;}
+.register-main	.warp	.itms-xy		{ text-align:right; height:20px; line-height:20px;}
+.register-main	.warp	.itms-xy	a	{ color:#fff; text-decoration:underline;}
+.register-main	.warp	.itms-qt	a	{ display:block; float:left; color:#123372; margin-right:20px; height:20px; line-height:20px;}
+.register-main	.warp	.itms-qt	.ti	{ padding:10px 0;} 
+.register-main	.warp	.itms-qt	a	.icon	{ width:20px; height:20px; display:block; float:left; margin-right:5px;}
+.register-main	.warp	.itms	.error		{ position:absolute; left:50px; top:50px; color:#ff0000; font-size:12px; line-height:20px}
+
+
+/*登录*/
+.login-main		{ height:600px;}
+.login-main		.warp	{ width:360px; height:430px; background:url(../images/bg-dl.png);  top:60px; left:10px; padding:30px 70px 0;}
+.login-main		.warp .itms-three		{ padding-bottom:0px; height:35px; line-height:35px; margin:0; font-size:12px;}
+.login-main		.warp .itms-three	label	{ float:left; color:#666; display:block;  margin-right:20px; height:35px; line-height:35px;  }
+.login-main		.warp .itms-three	a	{ float:left; color:#666; margin-right:20px; display:block; height:35px; line-height:35px; *+margin-top:2px;}
+.login-main		.warp .itms-three	.btn-dl	{ float:right; width:150px; height:35px; line-height:35px; text-align:center; color:#fff; font-size:16px; cursor:pointer; border-radius:5px;}

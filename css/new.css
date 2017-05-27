@@ -1,0 +1,37 @@
+/*详情页左边*/
+.news-main			{ margin-bottom:30px;}
+.news-content-main	{ padding:30px 0;}
+.news-content-main	.news-content-warp	{ border:1px solid #e5e5e5; padding:10px 30px 30px;}
+.news-content-main	.news-content-warp	.cont-title		{ font-size:24px; line-height:35px; padding:10px 0;}
+.news-content-main	.news-content-warp	.cont-jj		{ height:50px; line-height:50px; padding:0 20px; background:#fafafa;}	
+.news-content-main	.news-content-warp	.cont-jj	.f-left	span	{ margin-right:20px;}
+
+.news-content-main	.news-content-warp	.cont-jj	#bdshare	{ float:left; position:relative; top:13px;}
+.news-content-main	.news-content-warp	.cont-jj	.f-right	span	{ color:#000; margin:0 10px; cursor:pointer;}
+.news-content-main	.news-content-warp	.cont-jj	.f-right	span	.icon	{ display:block; width:20px; height:20px; float:right; background-position:-120px -40px; position:relative; top:15px; left:-10px;}
+.news-content-main	.news-content-warp	.cont-jj	.f-right	span.active		{ color:#c39559;}
+.news-content-main	.news-content-warp	.cont-jj	.f-right	span.active	.icon	{ background-position:-120px -60px;}
+.news-content-main	.news-content-warp	.news-content-cont		{ padding-top:20px;}
+.news-content-main	.news-content-warp	.news-content-cont	img	{ margin:10px auto; display:block;}
+.news-content-main	.news-content-warp	.news-content-cont	p	{ padding:10px 0; line-height:24px;}
+
+
+
+/*网友评论*/
+.comment-warp	.warp					{ border:1px solid #e5e5e5; padding:0 20px 30px;}
+.comment-warp	.warp	.itms			{ padding:20px 0; border-bottom:1px dashed #e5e5e5;}
+.comment-warp	.warp	.itms	.user	{ width:100%; height:30px; line-height:30px;}
+.comment-warp	.warp	.itms	.user	.tx	{ width:30px; height:30px; border-radius:30px; -moz-border-radius:30px; -ms-border-radius:30px; -o-border-radius:30px; -webkit-border-radius:30px; overflow:hidden;  margin-right:10px;}
+.comment-warp	.warp	.itms	.user		.name	{ margin-right:20px;}
+.comment-warp	.warp	.itms	.c		{ line-height:24px; color:#666; padding-top:15px;}
+
+
+
+
+/*搜索页面*/
+.search-main	.search-warp 	{ margin:20px 0; width:875px; z-index:9;}
+.search-main	.search-warp	.m	{ width:875px;}
+.search-main	.search-warp 	.In-text	{ width:765px;}
+
+.search-main	.search-list-warp	.itms			{ position:relative;}
+.search-main	.search-list-warp	.itms	.bq		{ position:absolute; left:10px; top:20px; background:#c39559; z-index:15; color:#fff; height:25px; line-height:25px; padding:0 10px; z-index:9;}
